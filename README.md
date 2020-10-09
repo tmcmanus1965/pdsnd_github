@@ -12,10 +12,10 @@ script takes in raw input to create an interactive experience in the terminal
 to present these statistics.
 
 ### Files used
-chicago.csv
-new_york.csv
-washington.csv
+- chicago.csv
+- new_york.csv
+- washington.csv
 
 ### Credits
-Udacity
-Modivate
+- Udacity
+- Modivate
