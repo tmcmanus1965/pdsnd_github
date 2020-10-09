@@ -15,6 +15,9 @@ to present these statistics.
 - chicago.csv
 - new_york.csv
 - washington.csv
+- bikeshare2.py # Python Program Template provided by Udacity
+
+* These files can be downloaded here: [bikeshare-2.zip](https://video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip)
 
 ### Credits
 - [Udacity](https://www.udacity.com)
