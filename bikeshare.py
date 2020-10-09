@@ -24,16 +24,14 @@ def view_city(city):
     count += 5
     print('*' * 60)
     raw_input = input("Would you like to continue 'yes' or 'no'? ").lower()
-    # print(raw_input)
-    # breakpoint()
+
 
     while True:
         while raw_input not in response:
             print('*' * 60)
             print('Please only enter one of the following: ', response)
             raw_input = input("Would you like to continue 'yes' or 'no'? ").lower()
-            # print(raw_input)
-            # breakpoint()
+            
         if raw_input[0] == 'n':
             break
 
@@ -41,8 +39,7 @@ def view_city(city):
         count += 5
         print('*' * 60)
         raw_input = input("Would you like to continue 'yes' or 'no'? ").lower()
-        # print(raw_input)
-        # breakpoint()
+
 
 
 def welcome():
