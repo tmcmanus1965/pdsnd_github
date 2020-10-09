@@ -17,5 +17,5 @@ to present these statistics.
 - washington.csv
 
 ### Credits
-- Udacity
-- Modivate
+- [Udacity](https://www.udacity.com)
+- [Modivate](https://www.motivateco.com)
