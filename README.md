@@ -21,4 +21,4 @@ to present these statistics.
 
 ### Credits
 - [Udacity](https://www.udacity.com)
-- [Modivate](https://www.motivateco.com)
+- [Motivate](https://www.motivateco.com)
