@@ -1,3 +1,8 @@
+# Author: Timothy McManus
+# Email: mcmanus.timothy@gmail.com
+# Github: https://github.com/tmcmanus1965/pdsnd_github
+
+
 import numpy as np
 import pandas as pd
 import time
