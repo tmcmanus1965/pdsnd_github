@@ -31,7 +31,7 @@ def view_city(city):
             print('*' * 60)
             print('Please only enter one of the following: ', response)
             raw_input = input("Would you like to continue 'yes' or 'no'? ").lower()
-            
+
         if raw_input[0] == 'n':
             break
 
@@ -49,7 +49,7 @@ def welcome():
     """
     view_data = False
     menu_selection = 'none'
-    greeting1 = 'Welcome to the Bike Share Analysis program.'
+    greeting1 = 'Welcome to the Motivate Bike Share Analysis program.'
     greeting2 = 'You can view five lines of raw data,\nor review statistics. \n'
     choice_menu = ('Main Menu',
                    'Please selection an option',
